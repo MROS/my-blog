@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://mros.github.io/my-blog/'
 languageCode = 'zh-tw'
 title = '憂天地崩墜，身亡所寄，廢寢食'
 theme = "paper"
